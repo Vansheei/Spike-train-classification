@@ -1,6 +1,6 @@
-`requirements.txt`
+requirements.txt
 
-```txt
+txt 
 numpy
 pandas
 matplotlib
